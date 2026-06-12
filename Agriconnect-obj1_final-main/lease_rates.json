@@ -1,0 +1,162 @@
+{
+  "Andhra Pradesh": {
+    "min": 25000,
+    "avg": 45000,
+    "max": 80000
+  },
+  "Arunachal Pradesh": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Assam": {
+    "min": 10000,
+    "avg": 18000,
+    "max": 30000
+  },
+  "Bihar": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Chhattisgarh": {
+    "min": 10000,
+    "avg": 18000,
+    "max": 30000
+  },
+  "Goa": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Gujarat": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 60000
+  },
+  "Haryana": {
+    "min": 35000,
+    "avg": 55000,
+    "max": 90000
+  },
+  "Himachal Pradesh": {
+    "min": 15000,
+    "avg": 28000,
+    "max": 50000
+  },
+  "Jharkhand": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 28000
+  },
+  "Karnataka": {
+    "min": 22000,
+    "avg": 40000,
+    "max": 70000
+  },
+  "Kerala": {
+    "min": 30000,
+    "avg": 55000,
+    "max": 95000
+  },
+  "Madhya Pradesh": {
+    "min": 12000,
+    "avg": 22000,
+    "max": 38000
+  },
+  "Maharashtra": {
+    "min": 20000,
+    "avg": 38000,
+    "max": 65000
+  },
+  "Manipur": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Meghalaya": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Nagaland": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Odisha": {
+    "min": 10000,
+    "avg": 18000,
+    "max": 30000
+  },
+  "Punjab": {
+    "min": 40000,
+    "avg": 65000,
+    "max": 110000
+  },
+  "Rajasthan": {
+    "min": 10000,
+    "avg": 20000,
+    "max": 35000
+  },
+  "Tamil Nadu": {
+    "min": 20000,
+    "avg": 38000,
+    "max": 65000
+  },
+  "Telangana": {
+    "min": 22000,
+    "avg": 40000,
+    "max": 70000
+  },
+  "Tripura": {
+    "min": 9000,
+    "avg": 16000,
+    "max": 26000
+  },
+  "Uttar Pradesh": {
+    "min": 15000,
+    "avg": 28000,
+    "max": 48000
+  },
+  "Uttarakhand": {
+    "min": 15000,
+    "avg": 27000,
+    "max": 45000
+  },
+  "West Bengal": {
+    "min": 15000,
+    "avg": 27000,
+    "max": 45000
+  },
+  "Chandigarh": {
+    "min": 38000,
+    "avg": 60000,
+    "max": 100000
+  },
+  "Delhi": {
+    "min": 40000,
+    "avg": 70000,
+    "max": 120000
+  },
+  "Jammu And Kashmir": {
+    "min": 12000,
+    "avg": 22000,
+    "max": 38000
+  },
+  "Chattisgarh": {
+    "min": 10000,
+    "avg": 18000,
+    "max": 30000
+  },
+  "Andaman And Nicobar": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 35000
+  },
+  "Pondicherry": {
+    "min": 18000,
+    "avg": 32000,
+    "max": 55000
+  }
+}
