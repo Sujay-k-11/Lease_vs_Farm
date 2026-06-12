@@ -1,0 +1,1017 @@
+{
+  "Guntur": {
+    "min": 30000,
+    "avg": 50000,
+    "max": 80000
+  },
+  "Kurnool": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Chittor": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Krishna": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Nellore": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Visakhapatnam": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "West Godavari": {
+    "min": 30000,
+    "avg": 52000,
+    "max": 80000
+  },
+  "East Godavari": {
+    "min": 30000,
+    "avg": 52000,
+    "max": 80000
+  },
+  "Anantapur": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Ahmedabad": {
+    "min": 25000,
+    "avg": 45000,
+    "max": 70000
+  },
+  "Amreli": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Anand": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Banaskanth": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Bharuch": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Bhavnagar": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Botad": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Dahod": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Devbhumi Dwarka": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Gandhinagar": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Jamnagar": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Junagarh": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Mehsana": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Morbi": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Panchmahals": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Patan": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Porbandar": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Rajkot": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Sabarkantha": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Surat": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Surendranagar": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Vadodara (Baroda)": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Ambala": {
+    "min": 40000,
+    "avg": 65000,
+    "max": 100000
+  },
+  "Faridabad": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Gurugram": {
+    "min": 50000,
+    "avg": 85000,
+    "max": 130000
+  },
+  "Hisar": {
+    "min": 32000,
+    "avg": 55000,
+    "max": 85000
+  },
+  "Karnal": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 95000
+  },
+  "Kurukshetra": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 95000
+  },
+  "Panipat": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Rohtak": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Sonipat": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 95000
+  },
+  "Amritsar": {
+    "min": 42000,
+    "avg": 70000,
+    "max": 110000
+  },
+  "Jalandhar": {
+    "min": 42000,
+    "avg": 70000,
+    "max": 110000
+  },
+  "Ludhiana": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Mohali": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Patiala": {
+    "min": 40000,
+    "avg": 65000,
+    "max": 100000
+  },
+  "Bathinda": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Sangrur": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 95000
+  },
+  "Moga": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 95000
+  },
+  "Bagalkot": {
+    "min": 18000,
+    "avg": 32000,
+    "max": 50000
+  },
+  "Ballari": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Belagavi": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Bengaluru Rural": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Bengaluru Urban": {
+    "min": 55000,
+    "avg": 90000,
+    "max": 140000
+  },
+  "Bidar": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Chamarajanagar": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Chikballapur": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Chikkamagaluru": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Chitradurga": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Dakshina Kannada": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Davanagere": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Dharwad": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Gadag": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Hassan": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Haveri": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Kalaburagi": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Kodagu": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Kolar": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Koppal": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Mandya": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Mysuru": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Raichur": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Ramanagara": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Shivamogga": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Tumakuru": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Udupi": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Uttara Kannada": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Vijayapura": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Yadgir": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Chennai": {
+    "min": 55000,
+    "avg": 90000,
+    "max": 140000
+  },
+  "Coimbatore": {
+    "min": 30000,
+    "avg": 50000,
+    "max": 80000
+  },
+  "Dharmapuri": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Erode": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Kanchipuram": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Madurai": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Namakkal": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Nilgiris": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Pudukkottai": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Salem": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Thanjavur": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Tiruchirappalli": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Tirunelveli": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Tiruppur": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Vellore": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Mumbai": {
+    "min": 60000,
+    "avg": 100000,
+    "max": 150000
+  },
+  "Pune": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Nashik": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Nagpur": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Kolhapur": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Aurangabad": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Solapur": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Thane": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Amravati": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Akola": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Agra": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Lucknow": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Meerut": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Ghaziabad": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 90000
+  },
+  "Varanasi": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Kanpur Nagar": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Mathura": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Bareilly": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Gorakhpur": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Prayagraj": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Jaipur": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Jodhpur": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Kota": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Udaipur": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Alwar": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Bharatpur": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Bikaner": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Ganganagar": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Bhopal": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Indore": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Jabalpur": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Gwalior": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Ujjain": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Sagar": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Ratlam": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Mandsaur": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Kolkata": {
+    "min": 50000,
+    "avg": 85000,
+    "max": 130000
+  },
+  "Howrah": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Hooghly": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "North 24 Parganas": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "South 24 Parganas": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Nadia": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Murshidabad": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Bardhaman": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Bhubaneswar": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Cuttack": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Puri": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Khordha": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Ganjam": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Sundargarh": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Guwahati": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Kamrup": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Dibrugarh": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Jorhat": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Nagaon": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Shimla": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Kullu": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Kangra": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Solan": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Mandi": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Thiruvananthapuram": {
+    "min": 35000,
+    "avg": 60000,
+    "max": 95000
+  },
+  "Ernakulam": {
+    "min": 40000,
+    "avg": 68000,
+    "max": 110000
+  },
+  "Kozhikode": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 92000
+  },
+  "Thrissur": {
+    "min": 38000,
+    "avg": 62000,
+    "max": 98000
+  },
+  "Palakkad": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Malappuram": {
+    "min": 30000,
+    "avg": 50000,
+    "max": 80000
+  },
+  "Kollam": {
+    "min": 32000,
+    "avg": 55000,
+    "max": 87000
+  },
+  "Kannur": {
+    "min": 32000,
+    "avg": 55000,
+    "max": 87000
+  },
+  "Alappuzha": {
+    "min": 35000,
+    "avg": 58000,
+    "max": 92000
+  },
+  "Kottayam": {
+    "min": 35000,
+    "avg": 60000,
+    "max": 95000
+  },
+  "Idukki": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Wayanad": {
+    "min": 25000,
+    "avg": 42000,
+    "max": 65000
+  },
+  "Kasaragod": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Pathanamthitta": {
+    "min": 30000,
+    "avg": 50000,
+    "max": 80000
+  },
+  "Hyderabad": {
+    "min": 50000,
+    "avg": 85000,
+    "max": 130000
+  },
+  "Rangareddy": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Medchal": {
+    "min": 45000,
+    "avg": 75000,
+    "max": 120000
+  },
+  "Warangal": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Nizamabad": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Karimnagar": {
+    "min": 22000,
+    "avg": 38000,
+    "max": 60000
+  },
+  "Nalgonda": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Khammam": {
+    "min": 20000,
+    "avg": 35000,
+    "max": 55000
+  },
+  "Mahbubnagar": {
+    "min": 18000,
+    "avg": 30000,
+    "max": 48000
+  },
+  "Adilabad": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "North Goa": {
+    "min": 30000,
+    "avg": 52000,
+    "max": 82000
+  },
+  "South Goa": {
+    "min": 28000,
+    "avg": 48000,
+    "max": 75000
+  },
+  "Balod": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Balodabazar": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Balrampur": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Bemetara": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Bilaspur": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Dhamtari": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Durg": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Gariyaband": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Janjgir": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Jashpur": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Kabirdham": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Kanker": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Kondagaon": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Korba": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Koria": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Mahasamund": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Mungeli": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Narayanpur": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Raigarh": {
+    "min": 12000,
+    "avg": 20000,
+    "max": 32000
+  },
+  "Raipur": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  },
+  "Rajnandgaon": {
+    "min": 10000,
+    "avg": 17000,
+    "max": 27000
+  },
+  "Sukma": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "Surajpur": {
+    "min": 8000,
+    "avg": 14000,
+    "max": 22000
+  },
+  "DEFAULT": {
+    "min": 15000,
+    "avg": 25000,
+    "max": 40000
+  }
+}
